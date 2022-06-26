@@ -1,0 +1,16 @@
+RDP code
+=======
+docker run -p 6070:80 dorowu/ubuntu-desktop-lxde-vnc
+===========
+RDP Port
+=====
+6070
+=====
+
+gitpod
+
+sudo su
+wget -O w10x64.sh https://bit.ly/windows10x64gitpod
+
+chmod +x w10x64.sh
+./w10x64.sh
